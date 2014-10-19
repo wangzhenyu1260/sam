@@ -7,6 +7,8 @@ public class Testing {
 		System.out.println("Hello world!");
 		
 		System.out.println("Add two");
+		
+		System.out.println("Add three");
 
 	}
 
